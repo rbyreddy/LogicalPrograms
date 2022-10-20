@@ -34,7 +34,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseNumber">
+  <component name="RunManager" selected="Application.CouponNumber">
+    <configuration name="CouponNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic.programs.CouponNumber" />
+      <module name="LogicalPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic.programs.FibonacciSeries" />
       <module name="LogicalPrograms" />
@@ -89,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CouponNumber" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.FibonacciSeries" />
