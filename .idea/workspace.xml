@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CouponNumber">
+  <component name="RunManager" selected="Application.Stopwatch">
     <configuration name="CouponNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic.programs.CouponNumber" />
       <module name="LogicalPrograms" />
@@ -50,19 +50,6 @@
     </configuration>
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic.programs.FibonacciSeries" />
-      <module name="LogicalPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="logic.programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic.programs.PerfectNumber" />
       <module name="LogicalPrograms" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +87,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stopwatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic.programs.Stopwatch" />
+      <module name="LogicalPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stopwatch" />
         <item itemvalue="Application.CouponNumber" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
